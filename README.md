@@ -1,17 +1,18 @@
 # Carbon Policy Project
 
-Simple, senior-quality **prototype policy** showing how to structure inputs (JSON Schema),
-implement calculations (JavaScript **and** Excel), and present a clean UI.
-
-> Numbers are illustrative only. Replace factors with the target program's official values if provided.
+This project was built by **Omar Alzoubi** as a simple prototype for digitizing environmental policies.  
+It shows how data can be structured, calculated, and tested using basic tools.
 
 ## Files
-- `index.html` – minimal UI to collect inputs and show results.
-- `style.css` – small, readable styling.
-- `script.js` – pure JS: validation, calculation, and JSON export.
-- `schema.json` – JSON Schema (Draft-07) for inputs.
-- `policy-calculations.xlsx` – Excel equivalent with formulas.
-- `sample-payload.json` – example payload exported by the UI.
+- `index.html` – simple form to enter data.
+- `style.css` – basic design.
+- `script.js` – JavaScript logic for calculations.
+- `schema.json` – JSON schema for the data.
+- `policy-calculations.xlsx` – Excel version of the calculations.
+- `sample-payload.json` – example data.
+
+## Formula
+
 
 ## Calculation
 ```
@@ -20,8 +21,12 @@ total_kg_co2 = (electricity_kWh * 0.5)
              + (travel_km * 0.1)
 ```
 
-## How to run
-Just open `index.html` in a browser (no server required).
+
+## How to Run
+1. Open `index.html` in your browser.
+2. Enter electricity, water, and travel values.
+3. Get the estimated CO₂ result.
+
 
 ## Mapping (Excel ⇄ JavaScript)
 - **JS**: see `FACTORS` and `calculateCO2()` in `script.js`.
