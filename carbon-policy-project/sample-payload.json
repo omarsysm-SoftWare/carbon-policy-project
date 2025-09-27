@@ -1,0 +1,11 @@
+{
+  "$schema": "./schema.json",
+  "data": {
+    "electricity": 120.5,
+    "water": 15,
+    "travel": 240
+  },
+  "meta": {
+    "note": "example payload for testing"
+  }
+}
