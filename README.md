@@ -46,7 +46,7 @@ sample-payload.json
 
 | Input Form | Result |
 |-----------|--------|
-| ![Input](https://github.com/omarsysm-SoftWare/carbon-policy-project/blob/main/input.png?raw=true) | ![Result](https://github.com/omarsysm-SoftWare/carbon-policy-project/blob/main/result.png?raw=true) |
+| ![Input](images/input.png) | ![Result](images/result.png) |
 
 
 Built by Omar Ahmad Alzoubi
