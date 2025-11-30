@@ -46,7 +46,7 @@ sample-payload.json
 
 | Input Form | Result |
 |-----------|--------|
-| ![Input](images/input.png) | ![Result](images/result.png) |
+| ![Input Screen](images/input.png) | ![Result Screen](images/result.png) |
 
 
 Built by Omar Ahmad Alzoubi
