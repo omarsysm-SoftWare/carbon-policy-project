@@ -78,6 +78,3 @@ Software Engineering Student – JUST
 📍 Amman, Jordan
 📧 omarsysm@gmail.com
 GitHub: https://github.com/omarsysm-SoftWare
-
-yaml
-Copy code
