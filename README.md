@@ -50,4 +50,4 @@ policy-calculations.xlsx
 sample-payload.json
 
 Built by Omar Ahmad Alzoubi
-GitHub: https://github.com/omarsysm-SoftWare
+LinkedIn: https://www.linkedin.com/in/omar-alzoubi-573881383/
