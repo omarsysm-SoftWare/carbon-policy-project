@@ -19,6 +19,13 @@ https://omarsysm-software.github.io/carbon-policy-project/
 HTML — CSS — JavaScript — JSON — Excel
 
 ---
+### Screenshots
+
+| Input Form | Result |
+|-----------|--------|
+| ![Input Screen](images/input.png) | ![Result Screen](images/result.png) |
+
+---
 
 ### How it works (Formula)
 
@@ -41,12 +48,6 @@ schema.json
 policy-calculations.xlsx
 
 sample-payload.json
-
-### Screenshots
-
-| Input Form | Result |
-|-----------|--------|
-| ![Input Screen](images/input.png) | ![Result Screen](images/result.png) |
 
 Built by Omar Ahmad Alzoubi
 GitHub: https://github.com/omarsysm-SoftWare
