@@ -48,6 +48,5 @@ sample-payload.json
 |-----------|--------|
 | ![Input Screen](images/input.png) | ![Result Screen](images/result.png) |
 
-
 Built by Omar Ahmad Alzoubi
 GitHub: https://github.com/omarsysm-SoftWare
