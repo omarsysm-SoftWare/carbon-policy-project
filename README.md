@@ -42,9 +42,11 @@ policy-calculations.xlsx
 
 sample-payload.json
 
-Screenshots
-https://github.com/omarsysm-SoftWare/carbon-policy-project/blob/main/Screenshot%202025-11-30%20185848.png?raw=true
-https://github.com/omarsysm-SoftWare/carbon-policy-project/blob/main/Screenshot%202025-11-30%20185907.png?raw=true
+### Screenshots
+
+| Input Form | Result |
+|-----------|--------|
+| ![Input Screen](https://raw.githubusercontent.com/omarsysm-SoftWare/carbon-policy-project/main/Screenshot%202025-11-30%20185848.png) | ![Result Screen](https://raw.githubusercontent.com/omarsysm-SoftWare/carbon-policy-project/main/Screenshot%202025-11-30%20185907.png) |
 
 Built by Omar Ahmad Alzoubi
 GitHub: https://github.com/omarsysm-SoftWare
