@@ -48,6 +48,10 @@ schema.json
 policy-calculations.xlsx
 
 sample-payload.json
+```
+--- 
 
-Built by Omar Ahmad Alzoubi
-LinkedIn: https://www.linkedin.com/in/omar-alzoubi-573881383/
+#### 👤 Author
+
+Built by **Omar Ahmad Alzoubi**  
+📄 LinkedIn: https://www.linkedin.com/in/omar-alzoubi-573881383/  
